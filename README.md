@@ -21,9 +21,3 @@
 - Produced detailed analytics on individual shoe models, encompassing sales prices, reviews, and other relevant metrics.
 - Delivered comprehensive insights into Nike's shoe sales performance across diverse regions and specific states, facilitating strategic decision-making and monthly performance tracking.
 
-####
-
-### Overview
-
-<p align="left">
-</p>
